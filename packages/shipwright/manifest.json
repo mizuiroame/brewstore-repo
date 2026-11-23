@@ -5,14 +5,14 @@
       "title": "Shipwright",
       "author": "mysterypaintwo",
       "description": "Ship of Harkinian, the native Ocarina of Time port, for Switch 2. Requires your own game data.",
-      "version": "v1.0",
+      "version": "v1.1",
       "url": "https://github.com/mysterypaintwo/Shipwright-Switch2",
       "release": "latest",
-      "asset": "soh-switch2-v1.0.zip",
+      "asset": "soh-switch2-v1.1.zip",
       "target": "sdmc:/switch/soh",
       "marker": "sdmc:/switch/soh/soh.nro",
-      "sha256": "c4e2ed58454cc45aedc7ea5a65615b134c17f9a086a8609a365ea2086818d906",
-      "published": 1795036540,
+      "sha256": "4029bf72808ccaea3f703920b6ec93fda303ef7dc8ee9965caa22047386e647f",
+      "published": 1795443604,
       "stripPrefix": "switch/soh/",
       "assetTemplate": "soh-switch2-{release_tag}.zip"
     }
