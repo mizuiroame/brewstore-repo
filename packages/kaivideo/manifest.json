@@ -6,12 +6,12 @@
       "author": "Mizuiro",
       "description": "Video player for Switch 2: your films and series from the SD card or your Jellyfin, Emby or Plex server, with hardware decoding (H.264, VP9, AV1), HEVC on the CPU, 4K, skip intro, Live TV, favorites, subtitles in your choice of fonts, sound tracks, resume and next episode.",
       "icon": "https://raw.githubusercontent.com/mizuiroame/kaivideo/main/icon.jpg",
-      "version": "v1.16.0",
+      "version": "v1.17.0",
       "url": "https://github.com/mizuiroame/kaivideo",
       "release": "latest",
       "asset": "",
-      "sha256": "5ea1d69105290474e70ee445a52ce49716f47343f784a90bd848973da9287c1c",
-      "published": 1795477726
+      "sha256": "b0e9236a6899eff2d444a2d9432d1ecc3f2dd55958bf8e86a146302defd1d6bf",
+      "published": 1795548467
     }
   ]
 }
