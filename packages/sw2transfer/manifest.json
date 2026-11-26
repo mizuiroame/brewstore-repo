@@ -6,13 +6,13 @@
       "author": "Rodpad",
       "description": "Multi-connection file transfer and file management server for Switch 2, used from a web browser.",
       "icon": "https://raw.githubusercontent.com/Rodpad/SW2Transfer/main/sw2transfer.jpg",
-      "version": "v2.0.0",
+      "version": "v2.0.1",
       "url": "https://github.com/Rodpad/SW2Transfer",
       "release": "latest",
       "asset": "sw2transfer.nro",
       "target": "sdmc:/switch/sw2transfer",
-      "sha256": "00573c9755e5726c3ed0804bc62e18cd5a4be696fe5edf4e3e2fd84bd568f730",
-      "published": 1795207499
+      "sha256": "e19b36a0c0d009853cac60c5aa96a9662891da5e3ee2aca57e7fd83fe2806d9c",
+      "published": 1795642300
     }
   ]
 }

@@ -5,14 +5,14 @@
       "title": "xStarbound",
       "author": "Sergalicious",
       "description": "Starbound port for Switch 2.",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://github.com/Sergaliciousnes/xStarbound-Switch2",
       "release": "latest",
       "asset": "",
       "marker": "sdmc:/switch/xstarbound/xStarbound.nro",
       "stripPrefix": "switch/xstarbound/",
-      "sha256": "64018012faf121837074362000edf7a7e80ab29564b0429f1d6dd62c3382fc36",
-      "published": 1794725460
+      "sha256": "6e940e8827615b978665d5bb2bf6306468d0d541d93fcf5ccad1329d6bed7e7a",
+      "published": 1795643869
     }
   ]
 }

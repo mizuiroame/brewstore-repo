@@ -5,12 +5,12 @@
       "title": "Donkey Kong Country 3",
       "author": "Souldbminer, elliottate",
       "description": "Donkey Kong Country 3 recompilation.",
-      "version": "v0.0.5-oz1",
+      "version": "0.0.5-2",
       "url": "https://github.com/souldbminerr/DKC3Recomp-NX",
       "release": "latest",
       "asset": "",
-      "sha256": "1b6b9358dc9c9c380e670785eae729b38a4f9f7ae5dcc41a50522ffa179d6544",
-      "published": 1794605980
+      "sha256": "8872589235d797b5e690c6e99da43fefdad7b592e9fd441538798571e139ea6a",
+      "published": 1795643063
     }
   ]
 }
