@@ -6,13 +6,13 @@
       "author": "Rodpad",
       "description": "SNES emulator for Switch 2 based on Snes9x.",
       "icon": "https://raw.githubusercontent.com/Rodpad/SW2SNES/main/sw2snes.jpg",
-      "version": "v1.0.1",
+      "version": "v1.1.0",
       "url": "https://github.com/Rodpad/SW2SNES",
       "release": "latest",
       "asset": "sw2snes.nro",
       "target": "sdmc:/switch/sw2snes",
-      "sha256": "ed1e8a246bc2ea9ba8a5772206fcbed83fdcc73b186dbc131b9be2494880c2fb",
-      "published": 1794700588
+      "sha256": "65c2eb2c34ea57c87d7f27d003f890713d3aca8a9e7e4a662c74f67b86d0e93f",
+      "published": 1795714873
     }
   ]
 }

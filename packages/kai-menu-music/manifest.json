@@ -6,14 +6,14 @@
       "author": "WeWaffles",
       "description": "Menu music for Switch 2. Installs the selector and kaiHEN plugin; put a 48 kHz stereo PCM16 WAV in /switch/kai-menu-music/.",
       "icon": "https://github.com/WeWaffles.png",
-      "version": "v1.1.0",
+      "version": "v1.2.0",
       "url": "https://github.com/WeWaffles/kai-menu-music",
       "release": "latest",
       "asset": ".zip",
       "target": "sdmc:/",
       "marker": "sdmc:/kaihen/plugins/kai-menu-music.nso",
-      "sha256": "bc5c9e47b30bbd71a43c0644226956a428a9c7592ca4f0f09b8e8bdfaf91cf0a",
-      "published": 1795203675,
+      "sha256": "24ffb6ad7b709edc049f1e9ee8d004326ced609e67d5c4a06151df7d891e29ff",
+      "published": 1795709333,
       "shortcut": true,
       "allowUnsafeTarget": true
     }
