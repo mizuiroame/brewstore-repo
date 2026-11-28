@@ -5,12 +5,12 @@
       "title": "Donkey Kong Country 2",
       "author": "Souldbminer, elliottate",
       "description": "Donkey Kong Country 2 recompilation.",
-      "version": "0.0.5-2",
+      "version": "v0.0.5.1",
       "url": "https://github.com/souldbminerr/DKC2Recomp-NX",
       "release": "latest",
       "asset": "",
-      "sha256": "2d99bf4e4d6a2e1b5ac11f9147dc833a08489a9e718bc21c070a5fcd096b0abf",
-      "published": 1795642775
+      "sha256": "5d223b221e6dabd8b1ca1ff2bd082c06f53bc3b33f084e6eed8d1ef6972bff9a",
+      "published": 1795825464
     }
   ]
 }

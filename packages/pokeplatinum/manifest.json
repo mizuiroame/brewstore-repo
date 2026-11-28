@@ -5,12 +5,12 @@
       "title": "pokeplatinum",
       "author": "cybervisi0n",
       "description": "Pokémon Platinum decompilation port.",
-      "version": "v0.2.4",
+      "version": "v0.2.5",
       "url": "https://github.com/cybervisi0n/pokeplatinum",
       "release": "latest",
       "asset": "release_ounce.zip",
-      "sha256": "0d0e61aa4f33b062421039ce05a0cfab148a60dbd0d4d803b394771518851d35",
-      "published": 1795386627
+      "sha256": "d36667765c45790633e9270cbe11aa9007f67eff5a3521734e911442a497fb4b",
+      "published": 1795833419
     }
   ]
 }
