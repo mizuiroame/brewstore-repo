@@ -6,14 +6,14 @@
       "author": "Prlxd",
       "description": "Phantasy Star Portable 2 Infinity native port. Requires your own English-patched ISO and PSP fonts.",
       "icon": "https://raw.githubusercontent.com/Prlxd/psp2i-switch2-port/main/docs/screenshot.jpg",
-      "version": "v0.9.1",
+      "version": "v0.9.4",
       "url": "https://github.com/Prlxd/psp2i-switch2-port",
       "release": "latest",
       "asset": "psp2i.nro",
       "target": "sdmc:/switch/psp2i",
       "marker": "sdmc:/switch/psp2i/psp2i.nro",
-      "sha256": "f8a9b2fb928a5fbe2ac50af7a8c239ce0fd2df316424b85cfde78592e397baaa",
-      "published": 1795094361
+      "sha256": "1404aeb9f16e25deacdafc2bab329c6e2eba394da917c77df8f6dfd894d8c04c",
+      "published": 1795882207
     }
   ]
 }
