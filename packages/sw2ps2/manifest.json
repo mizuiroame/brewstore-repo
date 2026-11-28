@@ -6,13 +6,13 @@
       "author": "Rodpad",
       "description": "PlayStation 2 emulator for Switch 2 based on OunceSX2. Needs your own PS2 BIOS in /bios/ps2 and games in /roms/ps2.",
       "icon": "https://raw.githubusercontent.com/Rodpad/SW2PS2/main/sw2ps2.jpg",
-      "version": "v1.4.0-experimental.2",
+      "version": "v1.5.0",
       "url": "https://github.com/Rodpad/SW2PS2",
       "release": "latest",
       "asset": "sw2ps2.nro",
       "target": "sdmc:/switch/sw2ps2",
-      "sha256": "4ddc8f612431de0d2666dfb3373e7a7a5efd710fffb9fbdc814eac783727746a",
-      "published": 1795738096
+      "sha256": "80f99df21a5808154d2689ab6592e0f841e3a72e20bd608c94da26630a6102fe",
+      "published": 1795822551
     }
   ]
 }
